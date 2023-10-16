@@ -34,8 +34,8 @@ https://drive.google.com/file/d/1ByTqb4my9SU6TQ8Aln1uG-t1F50G3o6l/view?usp=shari
 
 
 ## 👦Developed By
+- [@AvinashKapil](https://github.com/AwinashProject)
 - [@ShreeChandanReddy](https://github.com/ShreeChandanReddy-9)
-- [@Ranilbala](https://github.com/Ranilbala)
 
 
 
